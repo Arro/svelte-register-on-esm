@@ -1,0 +1,9 @@
+{
+  "name": "svelte-register-on-esm",
+  "version": "0.0.1",
+  "description": "Render a svelte component to a string on ESM packages",
+  "main": "src/register.js",
+  "dependencies": {
+    "svelte": "^3.50.1"
+  }
+}
